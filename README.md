@@ -12,7 +12,7 @@
 <img src="./Assets/01-html-css-git-homework-demo2.png" img alt="Image of terminal inside CD Desktop"/>
 
 <p> Enter "git clone git@github.com:spd34/Horiseon-Marketing-Refract.git" then press enter</p>
-<img src="./Assets/01-html-css-git-homework-demo3.png" img alt="Image of terminal after entering repo url using git clone/>
+<img src="./Assets/01-html-css-git-homework-demo4.png" img alt="Image of terminal after entering repo url using git clone/>
 
 <p>After hitting enter the repo will start downloading to your desktop where it can be opened with your code editor such as Visual Studio Code</p>
 <img src="./Assets/01-html-css-git-homework-demo4.png" img alt="Image of file viewer inside the desktop folder looking at the repo"/>
