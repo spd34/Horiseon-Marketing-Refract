@@ -17,4 +17,3 @@
 <p>After hitting enter the repo will start downloading to your desktop where it can be opened with your code editor such as Visual Studio Code</p>
 <img src="./Assets/01-html-css-git-homework-demo4.png" img alt="Image of file viewer inside the desktop folder looking at the repo"/>
 
-## END
